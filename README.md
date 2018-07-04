@@ -1,2 +1,7 @@
 # hello-world
-GitHub's original "Hello World" tutorial
+
+Hi Homo sapiens!
+
+I live in Tokyo Japan. I love running and whisky.
+
+Hope to see you in the future.
